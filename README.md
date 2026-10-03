@@ -46,20 +46,13 @@ I'm a B.Tech Computer Engineering student at **Sardar Patel Institute of Technol
 
 ## 🧰 Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=py,java,js,ts&theme=dark" alt="Languages" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,vite,sass&theme=dark" alt="Frontend" /></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="Backend" /></p>
-
-**Machine Learning**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="Machine Learning" /></p>
-
-**Databases & ORM**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sequelize&theme=dark" alt="Databases" /></p>
+<table align="center">
+<tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,java,js,ts&theme=dark" alt="Languages" /></td></tr>
+<tr><td align="right"><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,vite,sass&theme=dark" alt="Frontend" /></td></tr>
+<tr><td align="right"><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="Backend" /></td></tr>
+<tr><td align="right"><b>ML</b></td><td><img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="Machine Learning" /></td></tr>
+<tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sequelize&theme=dark" alt="Databases" /></td></tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
