@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:7aa2f7&height=200&section=header&text=Siddh%20Sakariya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20LLM%20%26%20Multi-Agent%20Systems&descAlignY=55&descSize=18&descColor=eaf0ff" alt="Siddh Sakariya" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:7aa2f7&height=200&section=header&text=Siddh%20Sakariya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20LLM%20%2B%20Multi-Agent%20Systems&descAlignY=55&descSize=18&descColor=eaf0ff" alt="Siddh Sakariya" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=B.Tech+Computer+Engineering+%40+SPIT%2C+Mumbai;Software+Engineer+Intern+%40+SPTBI;Building+full-stack+LLM+%26+multi-agent+systems;Head+of+Creatives+%40+SDC+%26+CSI" />
