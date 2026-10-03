@@ -1,0 +1,8 @@
+# Private resume source and photo — do not publish to the public profile repo
+main.tex
+*.pdf
+Siddh_Sakariya_PHOTOGRAPH.JPG
+resume/
+SETUP.md
+# OS / editor cruft
+.DS_Store
