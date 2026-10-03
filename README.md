@@ -118,28 +118,14 @@ I'm a B.Tech Computer Engineering student at **Sardar Patel Institute of Technol
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sidCodes7&theme=tokyo-night&hide_border=true&bg_color=00000000" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidCodes7&theme=github&hide_border=true&bg_color=ffffff00" alt="Activity graph" width="97%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=sidCodes7&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" />
-    <img src="https://github-profile-trophy.vercel.app/?username=sidCodes7&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" alt="Trophies" />
-  </picture>
-</p>
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidCodes7/sidCodes7/output/dist/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/sidCodes7/sidCodes7/output/dist/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidCodes7/sidCodes7/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/sidCodes7/sidCodes7/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%" />
   </picture>
 </p>
 
