@@ -35,7 +35,6 @@ I'm a B.Tech Computer Engineering student at **Sardar Patel Institute of Technol
 🧠 LLM-powered applications<br/>
 🤖 Multi-agent systems<br/>
 🖥️ Full-stack development<br/>
-🏗️ Building: Veridion<br/>
 🎓 B.Tech CE @ SPIT *(2024–2028)*
 
 </td>
