@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Siddh%20Sakariya&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20LLM%20%26%20Multi-Agent%20Systems&descAlignY=55&descSize=18&descColor=a9b1d6" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c0caf5,100:7aa2f7&height=200&section=header&text=Siddh%20Sakariya&fontSize=42&fontColor=1a1b27&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20LLM%20%26%20Multi-Agent%20Systems&descAlignY=55&descSize=18&descColor=414868" alt="Siddh Sakariya" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a56db,100:7aa2f7&height=200&section=header&text=Siddh%20Sakariya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20LLM%20%26%20Multi-Agent%20Systems&descAlignY=55&descSize=18&descColor=eaf0ff" alt="Siddh Sakariya" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=B.Tech+Computer+Engineering+%40+SPIT%2C+Mumbai;Software+Engineer+Intern+%40+SPTBI;Building+full-stack+LLM+%26+multi-agent+systems;Head+of+Creatives+%40+SDC+%26+CSI" />
@@ -25,20 +22,25 @@
 
 ## 👋 About Me
 
-```java
-public class SiddhSakariya {
-    private final String role   = "B.Tech Computer Engineering Student";
-    private final String college = "Sardar Patel Institute of Technology (SPIT), Mumbai";
-    private final String[] focus = {
-        "Full-stack development", "LLM-powered applications", "Multi-agent systems"
-    };
+<table>
+<tr>
+<td width="55%" valign="top">
 
-    public void introduce() {
-        System.out.println("Currently building Veridion — a multi-agent code-auditing platform.");
-        System.out.println("Previously: Software Engineer Intern @ SPTBI Business Incubator.");
-    }
-}
-```
+I'm a B.Tech Computer Engineering student at **Sardar Patel Institute of Technology**, Mumbai, also pursuing a minor in **Banking Technology** with Barclays. I build full-stack products with a focus on **LLM-powered applications** and **multi-agent systems** — most recently **Veridion**, a multi-agent code-auditing platform. Previously, I interned as a Software Engineer at **SPTBI Business Incubator**.
+
+</td>
+<td width="45%" valign="top">
+
+**🎯 Focus**
+- 🧠 LLM-powered applications
+- 🤖 Multi-agent systems
+- 🖥️ Full-stack development
+- 🏗️ Building: Veridion
+- 🎓 B.Tech CE @ SPIT *(2024–2028)*
+
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
