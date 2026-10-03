@@ -88,7 +88,7 @@ Led a frontend UI revamp (SCSS, TypeScript), implementing a fully responsive des
 **Head of Creatives, Core Committee — Students Developers' Club (SDC)**, SPIT · *Sep 2024 – Feb 2026* — Led operations and creative direction for Code-Red 2025 and Mini Code-Red.  
 **Head of Creatives, Core Committee — Computer Society of India (CSI)**, SPIT · *Sep 2024 – Feb 2026* — Oversaw end-to-end operations and creative direction for Tech-Week and S.P.I.T. Hackathon.
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<!-- <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -101,7 +101,7 @@ Led a frontend UI revamp (SCSS, TypeScript), implementing a fully responsive des
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sidCodes7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidCodes7&layout=compact&theme=default&hide_border=true&bg_color=ffffff00" alt="Top languages" width="48%" />
   </picture>
-</p>
+</p> -->
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
