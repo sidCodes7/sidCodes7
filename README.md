@@ -31,12 +31,12 @@ I'm a B.Tech Computer Engineering student at **Sardar Patel Institute of Technol
 </td>
 <td width="45%" valign="top">
 
-**🎯 Focus**
-- 🧠 LLM-powered applications
-- 🤖 Multi-agent systems
-- 🖥️ Full-stack development
-- 🏗️ Building: Veridion
-- 🎓 B.Tech CE @ SPIT *(2024–2028)*
+**🎯 Focus**<br/>
+🧠 LLM-powered applications<br/>
+🤖 Multi-agent systems<br/>
+🖥️ Full-stack development<br/>
+🏗️ Building: Veridion<br/>
+🎓 B.Tech CE @ SPIT *(2024–2028)*
 
 </td>
 </tr>
@@ -77,31 +77,24 @@ I'm a B.Tech Computer Engineering student at **Sardar Patel Institute of Technol
 
 **Software Engineer Intern — SPTBI Business Incubator @ S.P.I.T.** · *Feb 2026 – May 2026*
 
-- Developed and integrated RESTful APIs (Node.js, Express.js) for dynamic scheme filtering; restructured MySQL queries and added targeted indexing to cut average response latency by ~45%.
-- Led a frontend UI revamp (SCSS, TypeScript), implementing a fully responsive design system and resolving rendering issues.
+Developed and integrated RESTful APIs (Node.js, Express.js) for dynamic scheme filtering; restructured MySQL queries and added targeted indexing to cut average response latency by ~45%.  
+Led a frontend UI revamp (SCSS, TypeScript), implementing a fully responsive design system and resolving rendering issues.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🏆 Achievements
 
-- 🥇 **Winner — HackArena 2.0** (Mumbai Regionals, 60+ teams)
-- 🔟 **Top 10 — HackX 4.0** (155+ teams, @ NMIMS Kharghar)
-- 🔟 **Top 10 — SummerHacks'26** (120+ teams, @ ITM University)
-- 🔟 **Top 10 — SE HACK '26** (@ SPIT)
+🥇 **Winner — HackArena 2.0** (Mumbai Regionals, 60+ teams)  
+🔟 **Top 10 — HackX 4.0** (155+ teams, @ NMIMS Kharghar)  
+🔟 **Top 10 — SummerHacks'26** (120+ teams, @ ITM University)  
+🔟 **Top 10 — SE HACK '26** (@ SPIT)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🧑‍🤝‍🧑 Roles & Leadership
 
-- **Head of Creatives, Core Committee — Students Developers' Club (SDC)**, SPIT · *Sep 2024 – Feb 2026* — Led operations and creative direction for Code-Red 2025 and Mini Code-Red.
-- **Head of Creatives, Core Committee — Computer Society of India (CSI)**, SPIT · *Sep 2024 – Feb 2026* — Oversaw end-to-end operations and creative direction for Tech-Week and S.P.I.T. Hackathon.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## 📚 Currently
-
-- Pursuing **B.Tech in Computer Engineering** at Sardar Patel Institute of Technology *(2024 – 2028)*
-- Pursuing a **Minor in Banking Technology** with Barclays, in association with SPIT *(2026 – 2027)*
+**Head of Creatives, Core Committee — Students Developers' Club (SDC)**, SPIT · *Sep 2024 – Feb 2026* — Led operations and creative direction for Code-Red 2025 and Mini Code-Red.  
+**Head of Creatives, Core Committee — Computer Society of India (CSI)**, SPIT · *Sep 2024 – Feb 2026* — Oversaw end-to-end operations and creative direction for Tech-Week and S.P.I.T. Hackathon.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
